@@ -1,1 +1,2 @@
-DELETE THIS LINE.
+123456787,charles,xavier,1.78
+987654321,richard,hunt,0.09
